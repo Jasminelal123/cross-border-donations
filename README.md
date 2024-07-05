@@ -3,7 +3,7 @@
 ## 😎 Features
 
 - Beauty UI similar to the charity donation website
-- Fully responsive and mobile friendly 
+- Fully responsive and mobile friendly.
 - User can add their donation wish to cart
 - User can view details of the charities
 - User can donate the amount to the charity 
@@ -12,9 +12,9 @@
 ## 🚀 What technologies were used?
 
 - react.js (create-react-app)
-- react-dom-router
-- react-bootstrap
-- state management using Redux Toolkit
+- react-dom-router.
+- react-bootstrap.
+- state management using Redux Toolkit.
 
 🧰 Version Control
 Technology :
