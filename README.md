@@ -7,7 +7,7 @@
 - User can add their donation wish to cart
 - User can view details of the charities
 - User can donate the amount to the charity 
-- secure transactions 
+- secure transactions with less cost.
 
 ## 🚀 What technologies were used?
 
