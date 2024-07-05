@@ -22,13 +22,13 @@ Technology :
 	GitHub	
  
  🔨 Tools :
- 	Visual Studio Code	
+ 	Visual Studio Code.
   
   🌐 Web Dev
 Technology :
 	HTML,	
 	CSS,	
- 	Bootstrap	
+ 	Bootstrap.
 
   📜 JavaScript
 Technology :
@@ -36,7 +36,7 @@ Technology :
 	Angular,	
 	React,	
  	npm,	
-	Node.js	
+	Node.js	.
  
 
 ## How can you clone and tweak this project?
